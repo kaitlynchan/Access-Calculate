@@ -2,7 +2,7 @@
 public class DoMath {
 	
 	public static void main (String[] args){
-		double result = Calculate.sqrt(121);
+		int result = Calculate.factorial(-3);
 		System.out.println(result);
 	}
 }	
