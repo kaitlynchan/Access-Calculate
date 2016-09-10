@@ -2,7 +2,7 @@
 public class DoMath {
 	
 	public static void main (String[] args){
-		boolean result= Calculate.isPrime(13);
+		double result = Calculate.sqrt(121);
 		System.out.println(result);
 	}
 }	
