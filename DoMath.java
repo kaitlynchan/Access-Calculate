@@ -2,7 +2,7 @@
 public class DoMath {
 	
 	public static void main (String[] args){
-		int result = Calculate.factorial(-3);
+		String result = Calculate.quadForm(1, 1 , -2);
 		System.out.println(result);
 	}
 }	
